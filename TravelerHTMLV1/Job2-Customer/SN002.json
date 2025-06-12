@@ -1,0 +1,29 @@
+[
+  {
+    "Operation": "Frame Assembly",
+    "Status": "In Progress",
+    "Operator": "Alice",
+    "Notes": "Parts aligned, halfway done.",
+    "Kickback Count": 1,
+    "Expected Completion": "June 8, 2025",
+    "Time Elapsed": "00:00"
+  },
+  {
+    "Operation": "Wiring",
+    "Status": "Pending",
+    "Operator": "—",
+    "Notes": "Awaiting assembly finish.",
+    "Kickback Count": 3,
+    "Expected Completion": "June 10, 2025",
+    "Time Elapsed": "00:00"
+  },
+  {
+    "Operation": "Quality Check",
+    "Status": "Not Started",
+    "Operator": "—",
+    "Notes": "Will start after wiring.",
+    "Kickback Count": 0,
+    "Expected Completion": "June 10, 2025",
+    "Time Elapsed": "00:00"
+  }
+]

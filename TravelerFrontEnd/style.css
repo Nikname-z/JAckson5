@@ -1,0 +1,12 @@
+.project {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;       /* Spacer between projects */
+  border-radius: 8px;         /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  /* Subtle shadow */
+  list-style: none;           /* Removes bullet if using <li> inside */
+}
+.table-header-blue {
+  background-color: #007bff;
+  color: white;
+}

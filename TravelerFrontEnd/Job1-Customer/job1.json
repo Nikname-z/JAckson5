@@ -1,0 +1,30 @@
+[
+  {
+    "Serial Number": "SN001",
+    "Operation": "Frame Assembly",
+    "Operation Status": "In Progress",
+    "Last Operator": "Alice",
+    "Unit Status": "Active",
+    "Kickback Count": "0",
+    "Expected Completion": "June 7, 2025"
+    
+  },
+  {
+    "Serial Number": "SN002",
+    "Operation": "Wiring",
+    "Operation Status": "Pending",
+    "Last Operator": "—",
+    "Unit Status": "Paused",
+    "Kickback Count": "0",
+    "Expected Completion": "June 8, 2025"
+  },
+  {
+    "Serial Number": "SN003",
+    "Operation": "Quality Check",
+    "Operation Status": "Not Started",
+    "Last Operator": "—",
+    "Unit Status": "Closed",
+    "Kickback Count": "0",
+    "Expected Completion": "June 10, 2025"
+  }
+]

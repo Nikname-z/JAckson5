@@ -1,0 +1,4 @@
+Operation,Status,Operator,Notes,Kickback Count,Expected Completion,Time Elapsed
+"Frame Assembly","In Progress","Alice","Parts aligned, halfway done.",0,"June 7, 2025","00:00"
+"Wiring","Pending","—","Awaiting assembly finish.",0,"June 8, 2025","00:00"
+"Quality Check","Not Started","—","Will start after wiring.",0,"June 10, 2025","00:00"
